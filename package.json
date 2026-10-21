@@ -1,0 +1,19 @@
+{
+  "name": "swagat-pawar-portfolio",
+  "version": "1.0.0",
+  "description": "Editorial Portfolio - Swagat Pawar | AI/ML Developer & Data Science Enthusiast",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx --yes serve -p 3000",
+    "start": "npx --yes serve -p 3000",
+    "preview": "npx --yes serve -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "ai-ml",
+    "data-science",
+    "editorial-design"
+  ],
+  "author": "Swagat Pawar",
+  "license": "MIT"
+}
