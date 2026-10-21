@@ -4,6 +4,7 @@
   "description": "Editorial Portfolio - Swagat Pawar | AI/ML Developer & Data Science Enthusiast",
   "main": "index.html",
   "scripts": {
+    "build": "echo \"Static portfolio site ready for deployment.\"",
     "dev": "npx --yes serve -p 3000",
     "start": "npx --yes serve -p 3000",
     "preview": "npx --yes serve -p 3000"
